@@ -1,0 +1,42 @@
+.quote  {
+    text-align: center;
+    background-color: teal  ;
+    padding: 50px; 
+    
+      
+}
+
+.recommend {
+    padding: 10px;
+}
+
+body {
+  background-color: lightblue;
+}
+button {
+    width: 400px; 
+    height: 100px; 
+    background-color: lightblue; 
+    display: block; 
+    margin: auto; 
+    font-size: 25px; 
+}
+button:hover{
+background-color: cyan ; 
+    color: blue ; 
+} 
+
+h1 {
+    text-align: center; 
+    color: teal; 
+    font-style: italic; 
+} 
+
+.quote-recommend { 
+    
+    color: lightblue;
+        text-align: center;
+    font-size: 30px; 
+    padding: 20px; 
+}
+
