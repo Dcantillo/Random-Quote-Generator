@@ -21,8 +21,8 @@ button {
     margin: auto; 
     font-size: 25px; 
 }
-button:hover{
-background-color: cyan ; 
+    button:hover{
+    background-color: cyan ; 
     color: blue ; 
 } 
 
